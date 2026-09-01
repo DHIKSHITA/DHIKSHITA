@@ -46,78 +46,80 @@ Deep Learning       ████████████░░░░░░░░
 Skill levels represent my current practical learning and project experience and will evolve as I build more projects.
 
 🚀 Featured Projects
-📌 01 — [Project Name]
+📌 01 — Tattoo App
 
-Machine Learning | Python | Pandas | Scikit-learn
+React | JavaScript | Web Development | Frontend
 
-A machine-learning project focused on solving a real-world prediction/classification problem.
-
-Highlights
-
-Data cleaning and preprocessing
-Exploratory Data Analysis
-Feature engineering
-Model training and evaluation
-Performance comparison between algorithms
-Visual analysis of important features
-
-Result: Add your actual model accuracy / F1-score / RMSE here
-
-🔗 View Project
-
-📌 02 — [Project Name]
-
-Python | SQL | Data Analysis | Visualization
-
-An end-to-end data analysis project designed to discover trends and generate actionable insights from a real-world dataset.
+A web application project focused on building an interactive and user-friendly frontend experience.
 
 Highlights
 
-Data preprocessing
-SQL analysis
-Exploratory Data Analysis
-Statistical analysis
-Interactive/visual dashboards
-Business insights
+Developed the application interface
+Worked with frontend components
+Implemented interactive webpage elements
+Practiced responsive web design
+Organized the project structure for frontend development
 
-Result: Add your actual findings here
+Project Type: Web Application
 
-🔗 View Project
+🔗 View Project: https://github.com/DHIKSHITA/tattoo-app
 
-📌 03 — [Project Name]
+📌 02 — React Projects
 
-Python | Machine Learning | Streamlit
+React | JavaScript | Frontend Development
 
-A practical ML application that allows users to provide input data and receive model-based predictions.
-
-Highlights
-
-Trained ML model
-Feature preprocessing pipeline
-Prediction interface
-Model evaluation
-Deployment-ready application
-
-Result: Add your actual model metric here
-
-🔗 View Project
-
-📌 04 — [Project Name]
-
-Python | Deep Learning | Computer Vision / NLP
-
-An AI project exploring deep-learning techniques for a practical problem.
+A collection of React projects created to strengthen practical frontend-development and component-based programming skills.
 
 Highlights
 
-Dataset preparation
-Model development
-Training and validation
-Performance evaluation
-Prediction visualization
+Built React-based user interfaces
+Practiced reusable components
+Worked with JavaScript
+Developed interactive web pages
+Practiced component-based development
+Improved frontend project organization
 
-Result: Add your actual metric here
+Project Type: React Development
 
+🔗 View Project: https://github.com/DHIKSHITA/react_projects
+
+📌 03 — Web Designing Programs
+
+HTML | CSS | Web Design | Frontend
+
+A collection of web-design programs created to develop strong foundations in HTML, CSS, webpage structure, and frontend development.
+
+Highlights
+
+Created structured webpages
+Designed webpage layouts
+Practiced HTML and CSS
+Worked on frontend design concepts
+Developed multiple web-design exercises
+Improved understanding of website structure
+
+Project Type: Web Design
+
+🔗 View Project: https://github.com/DHIKSHITA/webdesign-programs
+
+📌 04 — Web Designing Assignments
+
+HTML | CSS | Web Development
+
+A collection of web-development assignments demonstrating practical experience with webpage creation, layouts, and frontend fundamentals.
+
+Highlights
+
+Developed multiple webpages
+Practiced HTML and CSS
+Created webpage layouts
+Worked on different web-design exercises
+Applied frontend development concepts
+Strengthened web-development fundamentals
+
+Project Type: Frontend / Web Design
+
+🔗 View Project: https://github.com/DHIKSHITA/webdesigining_Assignements
 🔗 View Project
 
 📈 GitHub Statistics
