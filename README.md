@@ -165,7 +165,9 @@ He## 🤝 Connect With Me
 
 📧 *Email:* [dhikshita56@gamil.com.com](mailto:your-email@example.com)
 
-💼 *LinkedIn:* [](#)
+💼 *LinkedIn:* [www.linkedin.com/in/
+sandu-dhikshita-13bb2331a
+](#)
 
 🐙 *GitHub:* [DHIKSHITA](https://github.com/DHIKSHITA)
 
